@@ -1,5 +1,4 @@
-{
-    "events" : [
+ [
         {
             "eventName" : "Global Game Jam",
             "description" : "Kimberley edition of the Global Game Jam hosted by the GKSS team.",
@@ -64,4 +63,4 @@
 
     ]
 
-}
+
