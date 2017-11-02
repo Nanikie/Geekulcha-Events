@@ -35,7 +35,7 @@
             "eventDuration" : "02 - 06 Apr",
 
             "date" : {
-                "day": 02,
+                "day": 2,
                 "month": 3,
                 "year" : 2018
             }
@@ -48,7 +48,7 @@
             "eventDuration" : "02 - 06 Jul",
 
             "date" : {
-                "day": 02,
+                "day": 2,
                 "month": 6,
                 "year" : 2018
             }
@@ -61,7 +61,7 @@
             "eventDuration" : "02 - 06 Jul",
 
             "date" : {
-                "day": 02,
+                "day": 2,
                 "month": 6,
                 "year" : 2018
             }
@@ -74,7 +74,7 @@
             "eventDuration" : "02 - 06 Oct",
 
             "date" : {
-                "day": 02,
+                "day": 2,
                 "month": 9,
                 "year" : 2018
             }
@@ -87,7 +87,7 @@
             "eventDuration" : "03 - 07 Dec",
 
             "date" : {
-                "day": 02,
+                "day": 3,
                 "month": 11,
                 "year" : 2018
             }
@@ -100,7 +100,7 @@
             "eventDuration" : "23 - 24 May",
 
             "date" : {
-                "day": 02,
+                "day": 23,
                 "month": 4,
                 "year" : 2018
             }
