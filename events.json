@@ -3,11 +3,12 @@
             "eventName" : "Global Game Jam",
             "description" : "Kimberley edition of the Global Game Jam hosted by the GKSS team.",
             "seats" : 30,
+            "targetDescription": "Developers",
             "eventDuration" : "26 - 28 Jan",
 
             "date" : {
                 "day": 26,
-                "month": "Jan",
+                "month": 0,
                 "year" : 2018
             }
 
@@ -17,11 +18,12 @@
             "eventName" : "SafeHack",
             "description" : "More efforts to grow InfoSec skills and challenging secure development",
             "seats" : 60,
+            "targetDescription": "Developers",
             "eventDuration" : "18 - 19 Mar",
 
             "date" : {
                 "day": 18,
-                "month": "Mar",
+                "month": 2,
                 "year" : 2018
             }
         },
@@ -29,109 +31,131 @@
             "eventName" : "Youth VacWork ICT and Business Programme",
             "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
             "seats" : 60,
+            "targetDescription": "high school learners",
             "eventDuration" : "02 - 06 Apr",
 
             "date" : {
                 "day": 02,
-                "month": "Apr",
+                "month": 3,
                 "year" : 2018
             }
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "description" : "Prieska (NC) - Indigenous Knowledge Systems",
             "seats" : 60,
-            "eventDuration" : "02 - 06 Apr",
+            "targetDescription": "high school learners",
+            "eventDuration" : "02 - 06 Jul",
 
             "date" : {
                 "day": 02,
-                "month": "Apr",
+                "month": 6,
                 "year" : 2018
             }
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
-            "seats" : 60,
-            "eventDuration" : "02 - 06 Apr",
+            "description" : "Lebowakgomo (LP) - Digital Social Innovation",
+            "seats" : 50,
+            "targetDescription": "high school learners",
+            "eventDuration" : "02 - 06 Jul",
 
             "date" : {
                 "day": 02,
-                "month": "Apr",
+                "month": 6,
                 "year" : 2018
             }
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
-            "seats" : 60,
-            "eventDuration" : "02 - 06 Apr",
+            "description" : "Soweto (GP) - Embracing a Maker Culture for Sustainability",
+            "seats" : 50,
+            "targetDescription": "high school learners",
+            "eventDuration" : "02 - 06 Oct",
 
             "date" : {
                 "day": 02,
-                "month": "Apr",
+                "month": 9,
                 "year" : 2018
             }
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
-            "seats" : 60,
-            "eventDuration" : "02 - 06 Apr",
+            "description" : "Siyabuswa (MP) - Green Building and Sustainability.",
+            "seats" : 20,
+            "targetDescription": "high school learners",
+            "eventDuration" : "03 - 07 Dec",
 
             "date" : {
                 "day": 02,
-                "month": "Apr",
+                "month": 11,
                 "year" : 2018
             }
         },
            {
-            "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "eventName" : "SS18Hack",
+            "description" : "A collaboration with ITWeb for an intensive InfoSec skills development",
             "seats" : 60,
-            "eventDuration" : "02 - 06 Apr",
+            "targetDescription": "Developers",
+            "eventDuration" : "23 - 24 May",
 
             "date" : {
                 "day": 02,
-                "month": "Apr",
+                "month": 4,
                 "year" : 2018
             }
         },
            {
-            "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
-            "seats" : 60,
-            "eventDuration" : "02 - 06 Apr",
+            "eventName" : "International Girls in ICT",
+            "description" : "A hands-on female event, attracting more young girls into ICT.",
+            "seats" : 40,
+            "targetDescription": "girls",
+            "eventDuration" : "28 Mar",
 
             "date" : {
-                "day": 02,
-                "month": "Apr",
+                "day": 28,
+                "month": 2,
                 "year" : 2018
             }
         },
         {
-              "eventName" : "IoT Design Challenge",
-            "description" : "Solutions for Social Good",
-            "seats" : 30,
-            "eventDuration" : "",
+              "eventName" : "Female Open Dataquest",
+            "description" : "How do we use Open Data to address and close gender gaps",
+            "seats" : 50,
+            "targetDescription": "ladies",
+            "eventDuration" : "24 Aug",
 
             "date" : {
-                "day": 1,
-                "month": "",
-                "year" : 2017
+                "day": 24,
+                "month": 7,
+                "year" : 2018
             }
         },
         {
-             "eventName" : "IoT Design Challenge",
-            "description" : "Solutions for Social Good",
-            "seats" : 30,
-            "eventDuration" : "",
+             "eventName" : "NCDevHack 2018",
+            "description" : "Carnarvon - the annual provincial hackathon in the Northern Cape",
+            "seats" : 50,
+            "targetDescription": "participants",
+            "eventDuration" : "08 - 09 Sep",
             "date" : {
-                "day": 1,
-                "month": "",
-                "year" : 2017
+                "day": 8,
+                "month": 8,
+                "year" : 2018
             }
-        }
+        },
+        {
+             "eventName" : "NGKHack18",
+            "description" : "“A Geekulcha of Sustainable Innovation” - ",
+            "seats" : 200,
+            "targetDescription": "young geeks",
+            "eventDuration" : "28 - 30 Sep",
+            "date" : {
+                "day": 28,
+                "month": 8,
+                "year" : 2018
+            }
+        
+  
 
     ]
 
