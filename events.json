@@ -8,33 +8,105 @@
             "date" : {
                 "day": 26,
                 "month": "Jan",
-                "year" : 2017
+                "year" : 2018
             }
 
 
         },
         {
-            "eventName" : "Geekulcha Braai",
-            "description" : "Colleborative Digital Solutions",
-            "seats" : 20,
-            "eventDuration" : "",
+            "eventName" : "SafeHack",
+            "description" : "More efforts to grow InfoSec skills and challenging secure development",
+            "seats" : 60,
+            "eventDuration" : "18 - 19 Mar",
 
             "date" : {
-                "day": 1,
-                "month": "",
-                "year" : 2017
+                "day": 18,
+                "month": "Mar",
+                "year" : 2018
             }
         },
         {
-            "eventName" : "IoT Design Challenge",
-            "description" : "Solutions for Social Good",
-            "seats" : 30,
-            "eventDuration" : "",
+            "eventName" : "Youth VacWork ICT and Business Programme",
+            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "seats" : 60,
+            "eventDuration" : "02 - 06 Apr",
 
             "date" : {
-                "day": 1,
-                "month": "",
-                "year" : 2017
+                "day": 02,
+                "month": "Apr",
+                "year" : 2018
+            }
+        },
+           {
+            "eventName" : "Youth VacWork ICT and Business Programme",
+            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "seats" : 60,
+            "eventDuration" : "02 - 06 Apr",
+
+            "date" : {
+                "day": 02,
+                "month": "Apr",
+                "year" : 2018
+            }
+        },
+           {
+            "eventName" : "Youth VacWork ICT and Business Programme",
+            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "seats" : 60,
+            "eventDuration" : "02 - 06 Apr",
+
+            "date" : {
+                "day": 02,
+                "month": "Apr",
+                "year" : 2018
+            }
+        },
+           {
+            "eventName" : "Youth VacWork ICT and Business Programme",
+            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "seats" : 60,
+            "eventDuration" : "02 - 06 Apr",
+
+            "date" : {
+                "day": 02,
+                "month": "Apr",
+                "year" : 2018
+            }
+        },
+           {
+            "eventName" : "Youth VacWork ICT and Business Programme",
+            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "seats" : 60,
+            "eventDuration" : "02 - 06 Apr",
+
+            "date" : {
+                "day": 02,
+                "month": "Apr",
+                "year" : 2018
+            }
+        },
+           {
+            "eventName" : "Youth VacWork ICT and Business Programme",
+            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "seats" : 60,
+            "eventDuration" : "02 - 06 Apr",
+
+            "date" : {
+                "day": 02,
+                "month": "Apr",
+                "year" : 2018
+            }
+        },
+           {
+            "eventName" : "Youth VacWork ICT and Business Programme",
+            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+            "seats" : 60,
+            "eventDuration" : "02 - 06 Apr",
+
+            "date" : {
+                "day": 02,
+                "month": "Apr",
+                "year" : 2018
             }
         },
         {
