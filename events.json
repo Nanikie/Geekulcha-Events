@@ -1,4 +1,4 @@
- [
+[
         {
             "eventName" : "Global Game Jam",
             "description" : "Kimberley edition of the Global Game Jam hosted by the GKSS team.",
@@ -10,8 +10,9 @@
                 "day": 26,
                 "month": 0,
                 "year" : 2018
-            }
+            },
 
+			"img" : "https://www.flickr.com/photos/geekulcha/32810618044/sizes/l/"
 
         },
         {
@@ -25,7 +26,10 @@
                 "day": 18,
                 "month": 2,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/33468674476/sizes/l/"
+			
         },
         {
             "eventName" : "Youth VacWork ICT and Business Programme",
@@ -38,7 +42,9 @@
                 "day": 2,
                 "month": 3,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/33874966905/sizes/l/"
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
@@ -51,7 +57,9 @@
                 "day": 2,
                 "month": 6,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/33061168183/sizes/l/"
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
@@ -64,7 +72,9 @@
                 "day": 2,
                 "month": 6,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/33874970105/sizes/l/"
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
@@ -78,6 +88,9 @@
                 "month": 9,
                 "year" : 2018
             }
+			,
+
+			"img" : "https://www.flickr.com/photos/geekulcha/33718155492/sizes/l/"
         },
            {
             "eventName" : "Youth VacWork ICT and Business Programme",
@@ -90,7 +103,9 @@
                 "day": 3,
                 "month": 11,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/33718173692/sizes/l/"
         },
            {
             "eventName" : "SS18Hack",
@@ -103,7 +118,9 @@
                 "day": 23,
                 "month": 4,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/34388089620/sizes/l/"
         },
            {
             "eventName" : "International Girls in ICT",
@@ -116,7 +133,9 @@
                 "day": 28,
                 "month": 2,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/26501766240/sizes/l/"
         },
         {
               "eventName" : "Female Open Dataquest",
@@ -129,7 +148,9 @@
                 "day": 24,
                 "month": 7,
                 "year" : 2018
-            }
+            },
+
+			"img" : ""
         },
         {
              "eventName" : "NCDevHack 2018",
@@ -141,10 +162,12 @@
                 "day": 8,
                 "month": 8,
                 "year" : 2018
-            }
+            },
+
+			"img" : "https://www.flickr.com/photos/geekulcha/36997585852/sizes/l/"
         },
         {
-             "eventName" : "NGKHack18",
+             "eventName" : "GKHack18",
             "description" : "“A Geekulcha of Sustainable Innovation” - ",
             "seats" : 200,
             "targetDescription": "young geeks",
@@ -154,9 +177,10 @@
                 "month": 8,
                 "year" : 2018
             }
+			,
+
+			"img" : "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F35211101%2F80758319587%2F1%2Foriginal.jpg?w=1000&rect=0%2C239%2C552%2C276&s=0b3ec18c5417a3d717c052766e8387bf"
         
         }
 
     ]
-
-
