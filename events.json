@@ -1,189 +1,186 @@
-[
-        {
-            "eventName" : "Global Game Jam",
-            "description" : "Kimberley edition of the Global Game Jam hosted by the GKSS team.",
-            "seats" : 30,
-            "targetDescription": "Developers",
-            "eventDuration" : "26 - 28 Jan",
+[{
+		"eventName": "Global Game Jam",
+		"description": "Kimberley edition of the Global Game Jam hosted by the GKSS team.",
+		"seats": 30,
+		"targetDescription": "Developers",
+		"eventDuration": "26 - 28 Jan",
 
-            "date" : {
-                "day": 26,
-                "month": 0,
-                "year" : 2018
-            },
+		"date": {
+			"day": 26,
+			"month": 0,
+			"year": 2018
+		},
 
-			"img" : "https://farm2.staticflickr.com/1569/24599129811_41c00f2382_m_d.jpg"
+		"img": "https://farm2.staticflickr.com/1569/24599129811_41c00f2382_m_d.jpg"
 
-        },
-        {
-            "eventName" : "SafeHack",
-            "description" : "More efforts to grow InfoSec skills and challenging secure development",
-            "seats" : 60,
-            "targetDescription": "Developers",
-            "eventDuration" : "18 - 19 Mar",
-
-            "date" : {
-                "day": 18,
-                "month": 2,
-                "year" : 2018
-            },
-
-			"img" : "https://farm3.staticflickr.com/2874/33506842396_b798385380_m_d.jpg"
-			
-        },
-	 {
-            "eventName" : "International Girls in ICT",
-            "description" : "A hands-on female event, attracting more young girls into ICT.",
-            "seats" : 40,
-            "targetDescription": "girls",
-            "eventDuration" : "28 Mar",
-
-            "date" : {
-                "day": 28,
-                "month": 2,
-                "year" : 2018
-            },
-
-			"img" : "https://farm2.staticflickr.com/1474/26501661260_d1cc004f3f_m_d.jpg"
-        },
-        {
-            "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
-            "seats" : 60,
-            "targetDescription": "high school learners",
-            "eventDuration" : "02 - 06 Apr",
-
-            "date" : {
-                "day": 2,
-                "month": 3,
-                "year" : 2018
-            },
-
-			"img" : "https://farm5.staticflickr.com/4292/35923666085_e9cb8ceb8e_m_d.jpg"
-        },
+	},
 	{
-            "eventName" : "SS18Hack",
-            "description" : "A collaboration with ITWeb for an intensive InfoSec skills development",
-            "seats" : 60,
-            "targetDescription": "Developers",
-            "eventDuration" : "23 - 24 May",
+		"eventName": "SafeHack",
+		"description": "More efforts to grow InfoSec skills and challenging secure development",
+		"seats": 60,
+		"targetDescription": "Developers",
+		"eventDuration": "18 - 19 Mar",
 
-            "date" : {
-                "day": 23,
-                "month": 4,
-                "year" : 2018
-            },
+		"date": {
+			"day": 18,
+			"month": 2,
+			"year": 2018
+		},
 
-			"img" : "https://farm5.staticflickr.com/4227/34388089620_f68cf08f52_m_d.jpg"
-        },
-           {
-            "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Prieska (NC) - Indigenous Knowledge Systems",
-            "seats" : 60,
-            "targetDescription": "high school learners",
-            "eventDuration" : "02 - 06 Jul",
+		"img": "https://farm3.staticflickr.com/2874/33506842396_b798385380_m_d.jpg"
 
-            "date" : {
-                "day": 2,
-                "month": 6,
-                "year" : 2018
-            },
+	},
+	{
+		"eventName": "International Girls in ICT",
+		"description": "A hands-on female event, attracting more young girls into ICT.",
+		"seats": 40,
+		"targetDescription": "girls",
+		"eventDuration": "28 Mar",
 
-			"img" : "https://farm3.staticflickr.com/2943/33717120592_c40f79c942_m_d.jpg"
-        },
-           {
-            "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Lebowakgomo (LP) - Digital Social Innovation",
-            "seats" : 50,
-            "targetDescription": "high school learners",
-            "eventDuration" : "02 - 06 Jul",
+		"date": {
+			"day": 28,
+			"month": 2,
+			"year": 2018
+		},
 
-            "date" : {
-                "day": 2,
-                "month": 6,
-                "year" : 2018
-            },
+		"img": "https://farm2.staticflickr.com/1474/26501661260_d1cc004f3f_m_d.jpg"
+	},
+	{
+		"eventName": "Youth VacWork ICT and Business Programme",
+		"description": "Pretoria (GP) - Digital Toolkit in fighting Crime and Cyber Bullying.",
+		"seats": 60,
+		"targetDescription": "high school learners",
+		"eventDuration": "02 - 06 Apr",
 
-			"img" : "https://farm3.staticflickr.com/2832/33029841364_bbd010aa6b_m_d.jpg"
-        },
-	   
-        {
-              "eventName" : "Female Open Dataquest",
-            "description" : "How do we use Open Data to address and close gender gaps",
-            "seats" : 50,
-            "targetDescription": "ladies",
-            "eventDuration" : "24 Aug",
+		"date": {
+			"day": 2,
+			"month": 3,
+			"year": 2018
+		},
 
-            "date" : {
-                "day": 24,
-                "month": 7,
-                "year" : 2018
-            },
+		"img": "https://farm5.staticflickr.com/4292/35923666085_e9cb8ceb8e_m_d.jpg"
+	},
+	{
+		"eventName": "SS18Hack",
+		"description": "A collaboration with ITWeb for an intensive InfoSec skills development",
+		"seats": 60,
+		"targetDescription": "Developers",
+		"eventDuration": "23 - 24 May",
 
-			"img" : "https://farm2.staticflickr.com/1477/26171022183_e00cf52255_m_d.jpg"
-        },
-        {
-             "eventName" : "NCDevHack 2018",
-            "description" : "Carnarvon - the annual provincial hackathon in the Northern Cape",
-            "seats" : 50,
-            "targetDescription": "participants",
-            "eventDuration" : "08 - 09 Sep",
-            "date" : {
-                "day": 8,
-                "month": 8,
-                "year" : 2018
-            },
+		"date": {
+			"day": 23,
+			"month": 4,
+			"year": 2018
+		},
 
-			"img" : "https://farm5.staticflickr.com/4360/36997585852_5a1ce7028d_m_d.jpg"
-        },
-        {
-             "eventName" : "GKHack18",
-            "description" : "“A Geekulcha of Sustainable Innovation” - ",
-            "seats" : 200,
-            "targetDescription": "young geeks",
-            "eventDuration" : "28 - 30 Sep",
-            "date" : {
-                "day": 28,
-                "month": 8,
-                "year" : 2018
-            }
-			,
+		"img": "https://farm5.staticflickr.com/4227/34388089620_f68cf08f52_m_d.jpg"
+	},
+	{
+		"eventName": "Youth VacWork ICT and Business Programme",
+		"description": "Prieska (NC) - Indigenous Knowledge Systems",
+		"seats": 60,
+		"targetDescription": "high school learners",
+		"eventDuration": "02 - 06 Jul",
 
-			"img" : "https://pbs.twimg.com/media/DK1g4TgW4AA3OjO.jpg"
-        
-        }
-           {
-            "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Soweto (GP) - Embracing a Maker Culture for Sustainability",
-            "seats" : 50,
-            "targetDescription": "high school learners",
-            "eventDuration" : "02 - 06 Oct",
+		"date": {
+			"day": 2,
+			"month": 6,
+			"year": 2018
+		},
 
-            "date" : {
-                "day": 2,
-                "month": 9,
-                "year" : 2018
-            }
-			,
+		"img": "https://farm3.staticflickr.com/2943/33717120592_c40f79c942_m_d.jpg"
+	},
+	{
+		"eventName": "Youth VacWork ICT and Business Programme",
+		"description": "Lebowakgomo (LP) - Digital Social Innovation",
+		"seats": 50,
+		"targetDescription": "high school learners",
+		"eventDuration": "02 - 06 Jul",
 
-			"img" : "https://farm6.staticflickr.com/5522/31314967312_ab9d7b5612_m_d.jpg"
-        },
-           {
-            "eventName" : "Youth VacWork ICT and Business Programme",
-            "description" : "Siyabuswa (MP) - Green Building and Sustainability.",
-            "seats" : 20,
-            "targetDescription": "high school learners",
-            "eventDuration" : "03 - 07 Dec",
+		"date": {
+			"day": 2,
+			"month": 6,
+			"year": 2018
+		},
 
-            "date" : {
-                "day": 3,
-                "month": 11,
-                "year" : 2018
-            },
+		"img": "https://farm3.staticflickr.com/2832/33029841364_bbd010aa6b_m_d.jpg"
+	},
 
-			"img" : "https://farm8.staticflickr.com/7684/28312951892_490a858aed_m_d.jpg"
-        },
-           
-       
+	{
+		"eventName": "Female Open Dataquest",
+		"description": "How do we use Open Data to address and close gender gaps",
+		"seats": 50,
+		"targetDescription": "ladies",
+		"eventDuration": "24 Aug",
 
-    ]
+		"date": {
+			"day": 24,
+			"month": 7,
+			"year": 2018
+		},
+
+		"img": "https://farm2.staticflickr.com/1477/26171022183_e00cf52255_m_d.jpg"
+	},
+	{
+		"eventName": "NCDevHack 2018",
+		"description": "Carnarvon - the annual provincial hackathon in the Northern Cape",
+		"seats": 50,
+		"targetDescription": "participants",
+		"eventDuration": "08 - 09 Sep",
+		"date": {
+			"day": 8,
+			"month": 8,
+			"year": 2018
+		},
+
+		"img": "https://farm5.staticflickr.com/4360/36997585852_5a1ce7028d_m_d.jpg"
+	},
+	{
+		"eventName": "GKHack18",
+		"description": "“A Geekulcha of Sustainable Innovation” - ",
+		"seats": 200,
+		"targetDescription": "young geeks",
+		"eventDuration": "28 - 30 Sep",
+		"date": {
+			"day": 28,
+			"month": 8,
+			"year": 2018
+		},
+
+		"img": "https://pbs.twimg.com/media/DK1g4TgW4AA3OjO.jpg"
+
+	},
+	{
+		"eventName": "Youth VacWork ICT and Business Programme",
+		"description": "Soweto (GP) - Embracing a Maker Culture for Sustainability",
+		"seats": 50,
+		"targetDescription": "high school learners",
+		"eventDuration": "02 - 06 Oct",
+
+		"date": {
+			"day": 2,
+			"month": 9,
+			"year": 2018
+		},
+
+		"img": "https://farm6.staticflickr.com/5522/31314967312_ab9d7b5612_m_d.jpg"
+	},
+	{
+		"eventName": "Youth VacWork ICT and Business Programme",
+		"description": "Siyabuswa (MP) - Green Building and Sustainability.",
+		"seats": 20,
+		"targetDescription": "high school learners",
+		"eventDuration": "03 - 07 Dec",
+
+		"date": {
+			"day": 3,
+			"month": 11,
+			"year": 2018
+		},
+
+		"img": "https://farm8.staticflickr.com/7684/28312951892_490a858aed_m_d.jpg"
+	}
+
+
+
+]
